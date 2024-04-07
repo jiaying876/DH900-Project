@@ -1,0 +1,23 @@
+/* screen - frame-14 */
+
+.frame-14 {
+  align-items: flex-start;
+  background-color: var(--black-2);
+  display: flex;
+  height: 733.33px;
+  min-width: 1318px;
+  padding: 0 149px;
+}
+
+#overlay-frame-14 {
+  align-items: center;
+  background-color: #00000080;
+  justify-content: center;
+}
+
+.frame-14 .abuiabaega-ag_-mv-uq {
+  height: 739px;
+  margin-left: 49px;
+  object-fit: cover;
+  width: 971px;
+}

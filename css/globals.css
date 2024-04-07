@@ -1,0 +1,298 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Inika:700|Inter:300,400,700,500");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+@import url("https://px.animaapp.com/65f771d04489337e6f71aa73.65f771d14489337e6f71aa76.YSY66O2.hcp.png");
+
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.overlay-base {
+  display: none;
+  height: 100%;
+  opacity: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.overlay-base.animate-appear {
+  align-items: center;
+  animation: reveal 0.3s ease-in-out 1 normal forwards;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  opacity: 0;
+}
+
+.overlay-base.animate-disappear {
+  animation: reveal 0.3s ease-in-out 1 reverse forwards;
+  display: block;
+  opacity: 1;
+  pointer-events: none;
+}
+
+.overlay-base.animate-disappear * {
+  pointer-events: none;
+}
+
+@keyframes reveal {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.frame-2::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.rectangle-1 {
+  height: 190px;
+  object-fit: cover;
+  position: relative;
+  width: 334px;
+}
+
+.rectangle-1-1 {
+  height: 361px;
+  object-fit: cover;
+  position: relative;
+  width: 699px;
+}
+
+.archive-of-urban-vil {
+  left: 106px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 259px;
+  width: 455px;
+}
+
+.view-detail-2 {
+  background: linear-gradient(180deg, rgb(254.61, 254.61, 254.61) 0%, rgb(196.49, 109.03, 109.03) 100%);
+  border: 0px none;
+  border-radius: 28px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  margin-right: -5.00px;
+  overflow: hidden;
+  padding: 12px 34px;
+}
+
+.frame-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 9px;
+  justify-content: center;
+  position: relative;
+}
+
+.view-details {
+  height: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: 199px;
+}
+
+.line-1 {
+  height: 2px;
+  left: 111px;
+  position: absolute;
+  top: 81px;
+  width: 524px;
+}
+
+.line-3 {
+  height: 2px;
+  left: 111px;
+  position: absolute;
+  top: 924px;
+  width: 524px;
+}
+
+.line-2 {
+  height: 2px;
+  width: 829px;
+}
+
+.overlap-group {
+  height: 70px;
+  position: relative;
+  width: 767px;
+}
+
+.lie-de-village {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 353px;
+}
+
+.line-5 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 69px;
+  width: 767px;
+}
+
+.images-bottom {
+  align-items: flex-start;
+  border-radius: 4px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.rectangle-5 {
+  height: 56px;
+  position: relative;
+  width: 364px;
+}
+
+.images-1 {
+  left: 128px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+}
+
+.plus {
+  background-image: url(../img/rectangle-6.svg);
+  background-size: 100% 100%;
+  height: 56px;
+  position: relative;
+  width: 59px;
+}
+
+.frame-1::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.during-demolition-2007-2010-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 35px;
+  width: 374px;
+}
+
+.vector-1-1 {
+  height: 8px;
+  margin-top: 11.5px;
+  width: 15px;
+}
+
+.view-detail-3 {
+  align-items: flex-start;
+  flex-direction: column;
+  position: relative;
+}
+
+.rectangle-14 {
+  height: 361px;
+  object-fit: cover;
+  position: relative;
+  width: 699px;
+}
+
+.xian-village {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 353px;
+}
+
+.rectangle-16 {
+  height: 382px;
+  object-fit: cover;
+  position: relative;
+  width: 699px;
+}
+
+.x2024-02-21-184357 {
+  height: 515px;
+  object-fit: cover;
+  position: relative;
+  width: 361px;
+}
+
+.rectangle-19 {
+  height: 314px;
+  object-fit: cover;
+  position: relative;
+  width: 699px;
+}
+
+.line-8 {
+  height: 1px;
+  margin-left: 3px;
+  margin-top: 9px;
+  object-fit: cover;
+  width: 269px;
+}
+
+.line-8-1 {
+  height: 1px;
+  margin-left: 3px;
+  object-fit: cover;
+  width: 269px;
+}
+
+.overlap-group5 {
+  height: 982px;
+  position: relative;
+  width: 635px;
+}
+
+.rectangle-22 {
+  background-color: var(--sanguine-brown-2);
+  height: 38px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 275px;
+}

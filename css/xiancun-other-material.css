@@ -1,0 +1,339 @@
+/* screen - xiancun-other-material */
+
+.xiancun-other-material {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  width: 1512px;
+}
+
+.xiancun-other-material .x1543996232php-p1-bznqjpeg-1 {
+  height: 982px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 378px;
+}
+
+.xiancun-other-material .rectangle-2-1 {
+  height: 982px;
+  left: 39px;
+  position: absolute;
+  top: 0;
+  width: 596px;
+}
+
+.xiancun-other-material .view-detail {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 106px;
+  position: absolute;
+  top: 574px;
+}
+
+.xiancun-other-material .view-detail-1 {
+  display: flex;
+  height: 75px;
+  width: 298px;
+}
+
+.xiancun-other-material .text-21 {
+  height: 45px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 27px;
+}
+
+.xiancun-other-material .flex-col {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-top: 81px;
+  min-height: 845px;
+  width: 829px;
+}
+
+.xiancun-other-material .lie-de {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  margin-right: 10px;
+  margin-top: 72px;
+  min-height: 147px;
+  width: 769px;
+}
+
+.xiancun-other-material .images {
+  align-items: center;
+  display: inline-flex;
+  gap: 340px;
+  justify-content: center;
+  margin-left: 4px;
+  position: relative;
+}
+
+.xiancun-other-material .other-materials {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 340px;
+  position: relative;
+}
+
+.xiancun-other-material .other-materials-1 {
+  align-items: flex-start;
+  border-radius: 4px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.xiancun-other-material .other-materials-2 {
+  left: 66px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 9px;
+  white-space: nowrap;
+  width: 233px;
+}
+
+.xiancun-other-material .text-22 {
+  left: 20px;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+}
+
+.xiancun-other-material .overlap-group6 {
+  align-items: flex-end;
+  border: 1px solid;
+  border-color: var(--sanguine-brown);
+  display: flex;
+  height: 540px;
+  margin-right: 12px;
+  margin-top: 23px;
+  min-width: 761px;
+  padding: 19px 18px;
+}
+
+.xiancun-other-material .frame-7::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.xiancun-other-material .frame-7 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  height: 496px;
+  overflow: hidden;
+  overflow-x: scroll;
+  width: 723px;
+}
+
+.xiancun-other-material .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 74px;
+  margin-right: -85px;
+  min-width: 795px;
+}
+
+.xiancun-other-material .overlap-group-1 {
+  height: 40px;
+  position: relative;
+  width: 275px;
+}
+
+.xiancun-other-material .official-documents {
+  left: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  width: 233px;
+}
+
+.xiancun-other-material .overlap-group-container-1 {
+  height: 40px;
+  position: relative;
+  width: 446px;
+}
+
+.xiancun-other-material .overlap-group1 {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 233px;
+}
+
+.xiancun-other-material .rectangle-2 {
+  background-color: var(--sanguine-brown-2);
+  height: 38px;
+  left: 56px;
+  position: absolute;
+  top: 0;
+  width: 117px;
+}
+
+.xiancun-other-material .movies {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  width: 233px;
+}
+
+.xiancun-other-material .overlap-group2 {
+  height: 40px;
+  left: 213px;
+  position: absolute;
+  top: 0;
+  width: 233px;
+}
+
+.xiancun-other-material .books {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  width: 233px;
+}
+
+.xiancun-other-material .flex-row {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  margin-right: -110px;
+  min-width: 833px;
+}
+
+.xiancun-other-material .component-1 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 391px;
+}
+
+.xiancun-other-material .overlap-group3 {
+  height: 445px;
+  position: relative;
+  width: 391px;
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.xiancun-other-material .image-3 {
+  height: 445px;
+  left: 0;
+  object-fit: cover;
+  position: relative;
+  top: 0;
+  width: 324px;
+}
+.xiancun-other-material .image-3:hover {
+  height: 445px;
+  left: 0;
+  object-fit: cover;
+  position: relative;
+  top: 0;
+  width: 324px;
+  z-index: 1;
+  opacity: 1;
+}
+
+.xiancun-other-material .hover-image {
+  height: 445px;
+  left: 76px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 315px;
+}
+
+.xiancun-other-material .flex-col-1 {
+  gap: 19px;
+  margin-bottom: 4.0px;
+  margin-left: 27px;
+  min-height: 421px;
+  width: 189px;
+}
+
+.xiancun-other-material .image-2 {
+  cursor: pointer;
+  height: 248px;
+  object-fit: cover;
+  width: 177px;
+}
+
+.xiancun-other-material .the-shadow-play-is-s {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 2px;
+  min-height: 154px;
+  width: 187px;
+}
+
+.xiancun-other-material .flex-col-2 {
+  gap: 21px;
+  margin-bottom: 3.0px;
+  margin-left: 21px;
+  min-height: 422px;
+  width: 205px;
+}
+
+.xiancun-other-material .image-1 {
+  cursor: pointer;
+  height: 246px;
+  object-fit: cover;
+  width: 164px;
+}
+
+.xiancun-other-material .the-main-story-of-th {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 2px;
+  min-height: 155px;
+  width: 203px;
+}
+
+.xiancun-other-material .line-4 {
+  height: 2px;
+  margin-top: 59px;
+  width: 829px;
+}
+
+.xiancun-other-material .flex-col-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.xiancun-other-material .text {
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.xiancun-other-material .view-detail-2:hover{
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  border: 2px solid #681008;
+
+}
+
+.xiancun-other-material .plus:hover{
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  border: 2px solid #681008;
+}

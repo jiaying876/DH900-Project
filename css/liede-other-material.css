@@ -1,0 +1,302 @@
+/* screen - liede-other-material */
+
+.liede-other-material {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  width: 1512px;
+}
+
+.liede-other-material .x1543996232php-p1-bznqjpeg-1 {
+  height: 982px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 378px;
+}
+
+.liede-other-material .rectangle-2 {
+  height: 982px;
+  left: 39px;
+  position: absolute;
+  top: 0;
+  width: 596px;
+}
+
+.liede-other-material .view-detail {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 106px;
+  position: absolute;
+  top: 574px;
+}
+
+.liede-other-material .view-detail-1 {
+  display: flex;
+  height: 75px;
+  width: 298px;
+}
+
+.liede-other-material .text-23 {
+  height: 45px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 27px;
+}
+
+.liede-other-material .flex-col {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-top: 81px;
+  min-height: 845px;
+  width: 829px;
+}
+
+.liede-other-material .lie-de {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  margin-right: 10px;
+  margin-top: 72px;
+  min-height: 147px;
+  width: 769px;
+}
+
+.liede-other-material .images {
+  align-items: center;
+  display: inline-flex;
+  gap: 340px;
+  justify-content: center;
+  margin-left: 4px;
+  position: relative;
+}
+
+.liede-other-material .other-materials {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 340px;
+  position: relative;
+}
+
+.liede-other-material .other-materials-1 {
+  align-items: flex-start;
+  border-radius: 4px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.liede-other-material .other-materials-2 {
+  left: 66px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 9px;
+  white-space: nowrap;
+  width: 233px;
+}
+
+.liede-other-material .text-24 {
+  left: 20px;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+}
+
+.liede-other-material .flex-col-1 {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: var(--sanguine-brown);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-right: 12px;
+  margin-top: 23px;
+  min-height: 540px;
+  padding: 1px 32px;
+  width: 761px;
+}
+
+.liede-other-material .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 36px;
+  margin-top: 26px;
+  min-width: 544px;
+}
+
+.liede-other-material .overlap-group7 {
+  height: 39px;
+  position: relative;
+  width: 275px;
+}
+
+.liede-other-material .official-blueprint {
+  left: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  width: 233px;
+}
+
+.liede-other-material .overlap-group1 {
+  height: 41px;
+  position: relative;
+  width: 233px;
+}
+
+.liede-other-material .rectangle-23 {
+  background-color: var(--sanguine-brown-2);
+  height: 38px;
+  left: 58px;
+  position: absolute;
+  top: 0;
+  width: 117px;
+}
+
+.liede-other-material .video {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 233px;
+}
+
+.liede-other-material .frame-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 59px;
+  height: 456px;
+  margin-left: 2px;
+  min-width: 677px;
+}
+
+.liede-other-material .frame-5::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.liede-other-material .frame-5 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 18px;
+  height: 456px;
+  overflow: hidden;
+  overflow-y: scroll;
+  position: relative;
+}
+
+.liede-other-material .abuiabaega-ag {
+  cursor: pointer;
+  height: 236px;
+  object-fit: cover;
+  position: relative;
+  width: 310px;
+}
+
+.liede-other-material .frame-8::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.liede-other-material .frame-8 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  height: 456px;
+  overflow: hidden;
+  overflow-y: scroll;
+  width: 308px;
+}
+
+.liede-other-material .overlap-group4 {
+  align-items: flex-start;
+  background-image: url(../img/--2024-03-10-19-34-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 165px;
+  min-width: 308px;
+  padding: 51px 123px;
+}
+
+.liede-other-material .frame-1 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: inline-flex;
+  gap: 10px;
+  opacity: 0.8;
+  position: relative;
+}
+
+.liede-other-material .ellipse-1 {
+  background-color: var(--alto);
+  border-radius: 31px;
+  height: 62px;
+  position: relative;
+  width: 62px;
+}
+
+.liede-other-material .vector-2 {
+  height: 30px;
+  left: 21px;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.liede-other-material .overlap-group3 {
+  align-items: flex-end;
+  background-image: url(../img/--2024-03-10-19-35-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 155px;
+  min-width: 308px;
+  padding: 46px 123px;
+}
+
+.liede-other-material .overlap-group2 {
+  align-items: flex-end;
+  background-image: url(../img/--2024-03-10-19-31-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 174px;
+  min-width: 308px;
+  padding: 33px 123px;
+}
+
+.liede-other-material .line-4 {
+  height: 2px;
+  margin-top: 59px;
+  width: 829px;
+}
+
+.liede-other-material .text {
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.liede-other-material .view-detail-2:hover{
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  border: 2px solid #681008;
+
+}
+
+.liede-other-material .plus:hover{
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  border: 2px solid #681008;
+}

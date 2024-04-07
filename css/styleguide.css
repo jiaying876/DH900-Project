@@ -1,0 +1,115 @@
+:root { 
+  --alto: #d9d9d9;
+  --black: #000000;
+  --black-2: #00000080;
+  --rustic-red: #4c0202;
+  --sanguine-brown: #963c3c;
+  --sanguine-brown-2: #963c3c4c;
+  --white: #ffffff;
+ 
+  --font-size-l: 16px;
+  --font-size-m: 15px;
+  --font-size-xl: 25px;
+  --font-size-xxl: 32px;
+  --font-size-xxxl: 34px;
+  --font-size-xxxxl: 40px;
+  --font-size-xxxxxl: 55px;
+ 
+  --font-family-inika: "Inika", Helvetica;
+  --font-family-inter: "Inter", Helvetica;
+}
+.inter-light-rustic-red-25px {
+  color: var(--rustic-red);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.inter-light-black-32px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.inter-light-black-42px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 42px;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.inika-bold-white-55px {
+  color: var(--white);
+  font-family: var(--font-family-inika);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-normal-rustic-red-34px {
+  color: var(--rustic-red);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-medium-black-40px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-light-rustic-red-34px {
+  color: var(--rustic-red);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.inter-light-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.inter-light-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.inter-medium-black-30px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-light-black-15px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.inter-bold-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
